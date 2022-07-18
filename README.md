@@ -1,3 +1,3 @@
 # EnVision-AI
 
-Description Coming Soon
+Project for TechUnder20 Cup Pitch Competition
